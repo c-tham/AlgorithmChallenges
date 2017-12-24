@@ -1,3 +1,6 @@
+// Values Greater than Second
+// For [1,3,5,7,9,13] , print values that are greater than its 2 nd value. Return how many values this is.
+
 var x = [1,3,5,7,9,13];
 
 function valuesecond(xx) {

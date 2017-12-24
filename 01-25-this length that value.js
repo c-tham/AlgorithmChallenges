@@ -1,3 +1,5 @@
+// This Length, That Value
+// Given two numbers, return array of length num1 with each value num2 . Print "Jinx!" if they are same.
 
 function thisthat(xx,yy) {
     var zz = [];

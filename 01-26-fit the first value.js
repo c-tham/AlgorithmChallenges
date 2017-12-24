@@ -1,3 +1,6 @@
+// Fit the First Value
+// Your function should accept an array. If value at [0] is greater than array’s length, print "Too big!" ; if value at [0] is less than array’s length, print "Too small!" ; otherwise print "Just right!" .
+
 var x1 = [2,1];
 var x2 = [4,1,1];
 var x3 = [2,1,1];
